@@ -7,8 +7,6 @@ author: website
 description: how to create custom discord invites.
 ---
 
-# Create custom discord invite
-
 ## Types of invites
 * team invites
 * league invites
