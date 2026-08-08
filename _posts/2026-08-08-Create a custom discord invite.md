@@ -4,7 +4,7 @@ date: 2026-08-08 13:48:00 +0700
 categories: [Offical, How to]
 tags: [discord,help]
 author: website
-description: how to create custom discord invites.
+description: How to create custom discord invites.
 pin: true
 ---
 
