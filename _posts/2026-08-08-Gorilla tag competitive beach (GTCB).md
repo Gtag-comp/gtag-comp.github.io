@@ -1,8 +1,8 @@
 ---
 title: Gorilla tag competitive beach (GTCB)
 date: 2026-08-08 18:38:00 +0700
-categories: [Leagues, forest]
-tags: [league,gtc,forest]
+categories: [Leagues, beach]
+tags: [league,gtc,beach]
 author: website
 description: Added Gorilla tag competitive beach (GTCB) custom discord invite.
 ---
