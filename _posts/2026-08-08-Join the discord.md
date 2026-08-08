@@ -1,5 +1,5 @@
 ---
-title: Create a custom discord invite
+title: Join the discord
 date: 2026-08-08 18:47:00 +0700
 categories: [Offical, How to]
 tags: [discord,help]
