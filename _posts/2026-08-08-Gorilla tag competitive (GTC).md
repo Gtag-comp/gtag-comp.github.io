@@ -5,6 +5,9 @@ categories: [Leagues, forest]
 tags: [league,gtc,forest]
 author: website
 description: Added Gorilla tag competitive (GTC) custom discord invite.
+image:
+  path: https://cdn.discordapp.com/icons/1076000755867205713/dee45df2352d4c3f9abf65660b188567.webp?size=96&quot
+  alt: GTCB logo.
 ---
 
 ## Added Gorilla tag competitive (GTC)
