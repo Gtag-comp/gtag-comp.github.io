@@ -1,8 +1,8 @@
 ---
 title: Gorilla tag competitive (GTC)
 date: 2026-08-08 15:13:00 +0700
-categories: [Leagues]
-tags: [league,gtc]
+categories: [Leagues, forest]
+tags: [league,gtc,forest]
 author: website
 description: Added Gorilla tag competitive (GTC) custom discord invite.
 ---
