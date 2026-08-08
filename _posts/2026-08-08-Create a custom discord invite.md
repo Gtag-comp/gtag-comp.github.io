@@ -5,6 +5,7 @@ categories: [How to]
 tags: [discord,help]
 author: website
 description: how to create custom discord invites.
+pin: true
 ---
 
 ## Types of invites
