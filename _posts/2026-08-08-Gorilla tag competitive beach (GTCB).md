@@ -5,6 +5,9 @@ categories: [Leagues, beach]
 tags: [league,gtcb,beach]
 author: website
 description: Added Gorilla tag competitive beach (GTCB) custom discord invite.
+image:
+  path: /assets/gtcb-logo.webp
+  alt: GTCB logo.
 ---
 
 ## Added Gorilla tag competitive beach (GTCB)
