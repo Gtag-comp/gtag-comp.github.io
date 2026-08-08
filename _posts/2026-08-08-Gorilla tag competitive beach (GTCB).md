@@ -1,6 +1,6 @@
 ---
 title: Gorilla tag competitive beach (GTCB)
-date: 2026-08-08 15:13:00 +0700
+date: 2026-08-08 18:38:00 +0700
 categories: [Leagues, forest]
 tags: [league,gtc,forest]
 author: website
