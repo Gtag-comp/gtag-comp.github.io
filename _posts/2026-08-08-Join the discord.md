@@ -6,6 +6,9 @@ tags: [discord,help]
 author: website
 description: How to join the discord.
 pin: true
+image:
+  path: /assets/discord-logo.jpg
+  alt: Discord logo.
 ---
 
 ## Link
