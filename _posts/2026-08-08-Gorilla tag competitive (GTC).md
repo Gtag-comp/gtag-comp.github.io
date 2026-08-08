@@ -7,7 +7,7 @@ author: website
 description: Added Gorilla tag competitive (GTC) custom discord invite.
 image:
   path: assets/gtc-logo.webp
-  alt: GTCB logo.
+  alt: GTC logo.
 ---
 
 ## Added Gorilla tag competitive (GTC)

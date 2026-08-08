@@ -5,6 +5,9 @@ categories: [Leagues, forest]
 tags: [league,cgt,forest]
 author: website
 description: Added Competitive Gorilla tag (CGT) custom discord invite.
+image:
+  path: assets/cgt-logo.webp
+  alt: CGT logo.
 ---
 
 ## Added Gorilla tag competitive (GTC)
