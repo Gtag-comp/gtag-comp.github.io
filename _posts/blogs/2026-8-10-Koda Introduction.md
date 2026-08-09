@@ -1,5 +1,5 @@
 ---
-title: Radium Introduction
+title: Koda Introduction
 date: 2026-08-10 01:50:00 +0700
 categories: [Blogs, Koda]
 tags: [blog,koda]
@@ -14,5 +14,7 @@ mostly discord only, i do the bot stuff and support.
 So like if something is broken or needs to be checked hit me up on Discord.
 
 i'm not realy a Gorilla tag Comper but the game is still kinda funz...
+
+oh yeah and itz Ko-Da :)
 
 Bye.
