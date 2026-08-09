@@ -1,8 +1,8 @@
 ---
 title: Test Blog
-date: 2026-08-10 00:45:00
+date: 2026-08-10 00:45:00 +0000
 categories: [Blogs, Radium]
-tags: [test,demo,blog]
+tags: [test,blog]
 author: radium
 description: Testing blogs.
 ---
