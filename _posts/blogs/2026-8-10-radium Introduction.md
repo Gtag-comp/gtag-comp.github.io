@@ -8,7 +8,7 @@ description: Radium introduces him self.
 ---
 
 # Who am I
-I am Radium the head developer and founder of RosterBase
+Hey, I am Radium the head developer and founder of RosterBase
 
 I have been in the Gorilla Tag competitive Leagues for a bit now and I am done of 
 chasing down leagues across multible Discords and asking poeple. So I decided to create RosterBase.
@@ -36,4 +36,4 @@ So it will be more eazy to start playing Competitive Gorilla tag.
 * Want your Discord linked for free? 
 * Have ideas to make this better? 
 
-Hit me up on Discord.
+Sent me a dm on Discord.
