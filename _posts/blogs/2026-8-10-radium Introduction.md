@@ -14,7 +14,7 @@ I have been in the Gorilla Tag competitive Leagues for a bit now and I am done o
 chasing down leagues across multible Discords and asking poeple. So I decided to create RosterBase.
 
 ## Why did i create RosterBasse
-it was a site project for me and the other developers to give teams cutsom discord invites for free and make a list of gtag leagues
+it was a site project for me and the other developers to give teams custom discord invites for free and make a list of gtag leagues
 
 Our main goals were simple:
 1.  **Give teams custom Discord invites for free**  
