@@ -1,7 +1,7 @@
 ---
 title: Gorilla tag competitive hoverpark (GTCH)
 date: 2026-08-09 15:33:00 +0700
-categories: [Leagues, Hoverpark, Gorilla tag Competitive Hoverpark]
+categories: [Leagues, Gorilla tag Competitive Hoverpark]
 tags: [league,gtch,hoverpark]
 author: website
 description: Added Gorilla tag competitive hoverpark (GTCH) custom discord invite.
