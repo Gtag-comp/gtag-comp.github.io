@@ -2,6 +2,6 @@ website:
   name: Website (RosterBase)
   url: https://gtag-comp.github.io/about
 
-  radium: 
+radium: 
   name: Radium (Main Developer)
   url: https://github.com/gtag-comp
