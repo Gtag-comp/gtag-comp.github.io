@@ -11,5 +11,5 @@ image:
 ---
 
 ## Added Gorilla tag competitive (GTC)
-Competitive Gorilla tag (CGT) now has a gtag-comp custom discord u can use at
+Gorilla tag Competitive (GTC) now has a gtag-comp custom discord u can use at
 [gtag-comp.github.io/cgt/discord](https://gtag-comp.github.io/cgt/discord)
