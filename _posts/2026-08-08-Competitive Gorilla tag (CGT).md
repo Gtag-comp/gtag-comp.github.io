@@ -1,7 +1,7 @@
 ---
 title: Competitive Gorilla tag (CGT)
 date: 2026-08-08 15:23:00 +0700
-categories: [test]
+categories: [Forest, Gorilla tag Competitive]
 tags: [league,cgt,forest]
 author: website
 description: Added Competitive Gorilla tag (CGT) custom discord invite.
