@@ -28,7 +28,7 @@ But the idea is to make a clean website where players can find leagues and teams
 So it will be more eazy to start playing Competitive Gorilla tag.
 
 ### What are the plans for RosterBase
-- Add ea lot of active Gtag leagues + free costom discord invite links.
+- Add a lot of active Gtag leagues + free costom discord invite links.
 - Making it a eazy way for new players to get into comp.
 
 #### Want to join the project?
