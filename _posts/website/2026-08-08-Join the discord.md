@@ -8,7 +8,7 @@ description: How to join the discord.
 pin: true
 ---
 
-![Discord logo](/assets/discord-logo.jpg){: width="972" height="589" .w-50 .right}
+![Discord logo](/assets/discord-logo.jpg){: width="972" height="589" .w-10 .right}
 
 ## Link
 gtag-comp.github.io/discord (Broken right now)

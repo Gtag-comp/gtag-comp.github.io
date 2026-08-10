@@ -6,9 +6,11 @@ tags: [league,gtch,hoverpark]
 author: website
 description: Added Gorilla tag competitive hoverpark (GTCH) custom discord invite.
 image:
-  path: /assets/gtch-logo.webp
+  path: 
   alt: GTCH logo.
 ---
+
+![GTCH logo](/assets/gtch-logo.webp){: width="972" height="589" .w-25 .right}
 
 ## Added Gorilla tag competitive beach (GTCB)
 Gorilla tag competitive beach (GTCB) now has a gtag-comp custom discord u can use at
