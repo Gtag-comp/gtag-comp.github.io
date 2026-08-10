@@ -15,6 +15,6 @@ So like if something is broken or needs to be checked hit me up on Discord.
 
 i'm not realy a Gorilla tag Comper but the game is still kinda funz...
 
-oh yeah and itz Ko-Da :)
+oh yeah and itz Ko-Da, or more like Ko-Die :)
 
 Bye.
