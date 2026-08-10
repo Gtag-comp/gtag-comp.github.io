@@ -11,7 +11,7 @@ description: Koda introduces him self.
 Yo Yo, I'm Koda the ticket/support guy of RosterBase
 
 mostly discord only, i do the bot stuff and support.
-So like if something is broken or needs to be checked hit me up on Discord.
+So like if something is broken or needs to be checked, hit me up on Discord.
 
 i'm not realy a Gorilla tag Comper but the game is still kinda funz...
 
