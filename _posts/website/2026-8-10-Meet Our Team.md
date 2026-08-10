@@ -17,7 +17,7 @@ description: Meet the RosterBase Team.
 
 **Role:** Founder & Head Programmer
 
-**Discord:** @SilverRadium
+**Discord:** `@SilverRadium`
 
 **About:** Built and maintains RosterBase. Handles all site code, features, and backend.
 
@@ -26,7 +26,7 @@ description: Meet the RosterBase Team.
 
 **Role:** Head Admin & Staff
 
-**Discord:** @KodahZ
+**Discord:** `@KodahZ`
 
 **About:** Helps with verifications, moderation, and site updates.
 

@@ -8,10 +8,10 @@ description: Radium introduces him self.
 ---
 
 # Who am I
-Hey, I am Radium the head developer and founder of RosterBase
+Hey, I am Radium the head developer and founder of [RosterBase](https://gtag-comp.github.io/about/)
 
 I have been in the Gorilla Tag competitive Leagues for a bit now and I am done of 
-chasing down leagues across multible Discords and asking poeple. So I decided to create RosterBase.
+chasing down leagues across multible Discords and asking poeple. So I decided to create [RosterBase](https://gtag-comp.github.io/about/).
 
 ## Why did i create RosterBasse
 it was a site project for me and the other developers to give teams custom discord invites for free and make a list of gtag leagues
@@ -23,7 +23,7 @@ Our main goals were simple:
     A lot of competitive leagues and teams in one place, updated and easy to browse.
 
 ### Work in progress (WIP)
-RosterBase is not done yet. We are still building it. 
+[RosterBase](https://gtag-comp.github.io/about/) is not done yet. We are still building it. 
 But the idea is to make a clean website where players can find leagues and teams fast.
 So it will be more eazy to start playing Competitive Gorilla tag.
 
@@ -36,4 +36,5 @@ So it will be more eazy to start playing Competitive Gorilla tag.
 * Want your Discord linked for free? 
 * Have ideas to make this better? 
 
-Sent me a dm on Discord.
+Sent me a DM on Discord.
+- `@SilverRadium`

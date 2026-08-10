@@ -8,10 +8,11 @@ description: Koda introduces him self.
 ---
 
 # Who am I
-Yo Yo, I'm Koda the ticket/support guy of RosterBase
+Yo Yo, I'm `Koda` the ticket/support guy of [RosterBase](https://gtag-comp.github.io/about/)
 
 mostly discord only, i do the bot stuff and support.
 So like if something is broken or needs to be checked, hit me up on Discord.
+- `@KodahZ`
 
 i'm not realy a Gorilla tag Comper but the game is still kinda funz...
 
