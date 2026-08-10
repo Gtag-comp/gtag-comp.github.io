@@ -5,9 +5,6 @@ categories: [Leagues, Hoverpark]
 tags: [league,gtch,hoverpark]
 author: website
 description: Added Gorilla tag competitive hoverpark (GTCH) custom discord invite.
-image:
-  path: 
-  alt: GTCH logo.
 ---
 
 ![GTCH logo](/assets/gtch-logo.webp){: width="972" height="589" .w-25 .right}
