@@ -7,7 +7,7 @@ author: website
 description: Added Gorilla tag competitive (GTC) custom discord invite.
 ---
 
-![GTC logo](/assets/gtc-logo.webp){: width="972" height="589" .w-25 .right}
+![GTC logo](assets/gtc-logo.webp){: width="972" height="589" .w-25 .right}
 
 ## Added Gorilla tag competitive (GTC)
 Gorilla tag competitive (GTC) now has a gtag-comp custom discord u can use at
