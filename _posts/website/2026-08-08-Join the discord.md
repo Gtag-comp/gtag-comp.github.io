@@ -6,10 +6,9 @@ tags: [discord,help,rosterbase]
 author: website
 description: How to join the discord.
 pin: true
-image:
-  path: /assets/discord-logo.jpg
-  alt: Discord logo.
 ---
+
+![Discord logo](/assets/discord-logo.jpg){: width="972" height="589" .w-50 .right}
 
 ## Link
 gtag-comp.github.io/discord (Broken right now)

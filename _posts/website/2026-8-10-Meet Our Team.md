@@ -30,4 +30,5 @@ description: Meet the RosterBase Team.
 
 ---
 
-Want to join us? Open a ticket to apply for `Writer` or `Staff` roles.
+> Want to join us? Open a ticket to apply for `Writer` or `Staff` roles.
+{: .prompt-tip }
