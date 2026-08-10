@@ -2,9 +2,9 @@
 title: Meet Our Team
 date: 2026-08-10 13:12:00 +0700
 categories: [RosterBase, Announcements]
-tags: [development,RosterBase]
+tags: [development,rosterlink]
 author: website
-description: Meet the RosterBase Team.
+description: Meet the RosterLink Team.
 ---
 
 # Meet The Team

@@ -2,7 +2,7 @@
 title: Gorilla tag competitive hoverpark (GTCH)
 date: 2026-08-09 15:33:00 +0700
 categories: [Leagues, Hoverpark]
-tags: [league,gtch,hoverpark]
+tags: [league,gtch,hoverpark,disvite]
 author: website
 description: Added Gorilla tag competitive hoverpark (GTCH) custom discord invite.
 ---
@@ -10,5 +10,5 @@ description: Added Gorilla tag competitive hoverpark (GTCH) custom discord invit
 ![GTCH logo](/assets/gtch-logo.webp){: width="972" height="589" .w-25 .right}
 
 ## Added Gorilla tag competitive beach (GTCB)
-Gorilla tag competitive beach (GTCB) now has a gtag-comp custom discord u can use at
-[gtag-comp.github.io/gtcb/discord](https://gtag-comp.github.io/gtch/discord)
+Gorilla tag competitive beach (GTCB) now has a disvite invite link u can use at
+[disvite.github.io/gtcb/discord](https://disvite.github.io/gtch/discord)

@@ -1,11 +1,11 @@
 website: 
-  name: Website (RosterBase)
-  url: https://gtag-comp.github.io/about
+  name: Website (RosterLink)
+  url: https://rosterlink.github.io/about
 
 radium: 
   name: Radium (Head Developer)
-  url: https://gtag-comp.github.io/posts/radium-Introduction/
+  url: https://rosterlink.github.io/posts/radium-Introduction/
 
 koda:
   name: Koda (Support Staff)
-  url: https://gtag-comp.github.io/posts/Koda-Introduction/
+  url: https://rosterlink.github.io/posts/Koda-Introduction/
