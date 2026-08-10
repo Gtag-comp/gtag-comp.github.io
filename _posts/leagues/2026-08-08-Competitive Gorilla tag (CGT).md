@@ -7,7 +7,7 @@ author: website
 description: Added Competitive Gorilla tag (CGT) custom discord invite.
 ---
 
-![CGT logo](/assets/cgt-logo.webp){: width="972" height="589" .w-50 .right}
+![CGT logo](/assets/cgt-logo.webp){: width="972" height="589" .w-25 .right}
 
 ## Added Gorilla tag competitive (GTC)
 Gorilla tag Competitive (GTC) now has a gtag-comp custom discord u can use at
