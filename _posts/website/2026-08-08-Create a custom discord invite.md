@@ -2,7 +2,7 @@
 title: Create a custom discord invite
 date: 2026-08-08 13:48:00 +0700
 categories: [RosterBase, How to]
-tags: [discord,help]
+tags: [discord,help,rosterbase]
 author: website
 description: How to create custom discord invites.
 pin: true

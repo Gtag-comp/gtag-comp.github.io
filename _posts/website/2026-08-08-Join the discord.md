@@ -2,7 +2,7 @@
 title: Join the discord
 date: 2026-08-08 18:47:00 +0700
 categories: [RosterBase, How to]
-tags: [discord,help]
+tags: [discord,help,rosterbase]
 author: website
 description: How to join the discord.
 pin: true
