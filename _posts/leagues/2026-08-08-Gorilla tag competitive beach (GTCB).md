@@ -7,7 +7,7 @@ author: website
 description: Added Gorilla tag competitive beach (GTCB) custom discord invite.
 ---
 
-![GTCB logo](/assets/gtcb-logo.web){: width="972" height="589" .w-25 .right}
+![GTCB logo](/assets/gtcb-logo.webp){: width="972" height="589" .w-25 .right}
 
 ## Added Gorilla tag competitive beach (GTCB)
 Gorilla tag competitive beach (GTCB) now has a gtag-comp custom discord u can use at
