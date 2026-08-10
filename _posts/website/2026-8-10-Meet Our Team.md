@@ -9,13 +9,15 @@ description: Meet the RosterBase Team.
 
 # Meet The Team
 
+---
+
 ## **Leadership**
 
 ### **Radium**
 
 **Role:** Founder & Head Programmer
 
-**Discord:** @silverradium
+**Discord:** @SilverRadium
 
 **About:** Built and maintains RosterBase. Handles all site code, features, and backend.
 
